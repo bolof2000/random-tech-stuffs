@@ -31,3 +31,26 @@ build/
 
 ### VS Code ###
 .vscode/
+
+infrastructur-automation/buckets/.terraform.lock.hcl
+infrastructur-automation/buckets/.terraform/
+infrastructur-automation/buckets/terraform.tfstate
+infrastructur-automation/buckets/terraform.tfstate.backup
+
+
+infrastructur-automation/eks-deployment/.terraform.lock.hcl
+infrastructur-automation/eks-deployment/.terraform/
+infrastructur-automation/eks-deployment/terraform.tfstate
+infrastructur-automation/eks-deployment/terraform.tfstate.backup
+
+
+infrastructur-automation/security-group/.terraform.lock.hcl
+infrastructur-automation/security-group/.terraform/
+infrastructur-automation/security-group/terraform.tfstate
+infrastructur-automation/security-group/terraform.tfstate.backup
+
+infrastructur-automation/vpc/.terraform.lock.hcl
+infrastructur-automation/vpc/.terraform/
+infrastructur-automation/vpc/terraform.tfstate
+infrastructur-automation/vpc/terraform.tfstate.backup
+infrastructur-automation/vpc/ec2-key-pair.pem
